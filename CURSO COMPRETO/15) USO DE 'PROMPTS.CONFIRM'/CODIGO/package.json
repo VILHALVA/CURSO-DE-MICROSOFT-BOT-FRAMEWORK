@@ -1,0 +1,23 @@
+{
+  "name": "codigo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots",
+    "botbuilder-samples",
+    "bot-framework",
+    "node.js"
+  ],
+  "author": "VILHALVA",
+  "dependencies": {
+    "botbuilder": "^3.14.1",
+    "restify": "^7.1.1"
+  }
+}
