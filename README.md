@@ -1,7 +1,7 @@
 # CURSO DE MICROSOFT BOT FRAMEWORK
 👨‍⚖️O MICROSOFT BOT FRAMEWORK É UMA PLATAFORMA DA MICROSOFT QUE PERMITE O DESENVOLVIMENTO DE CHATBOTS PARA INTERAÇÃO COM USUÁRIOS EM DIVERSOS CANAIS, COMO WEBSITES, APLICATIVOS DE MENSAGENS E ASSISTENTES VIRTUAIS. ESSA FERRAMENTA FACILITA A CRIAÇÃO DE CHATBOTS INTELIGENTES E PERSONALIZADOS PARA DIFERENTES FINALIDADES.
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="IMAGEM.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 O Microsoft Bot Framework é uma plataforma de desenvolvimento que permite criar bots inteligentes para interagir com usuários através de diferentes canais de comunicação, como o Skype, o Microsoft Teams, o Telegram, entre outros.
